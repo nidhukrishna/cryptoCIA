@@ -17,7 +17,7 @@ A Python implementation of a 3x3 Hill Cipher combined with a bitwise hash functi
 
 1. Run the script from your terminal:
    ```bash
-   python hill_cipher_auth.py
+   python hill_cipher.py
    ```
 2. Enter your plaintext message when prompted (spaces and punctuation will be ignored).
 3. Enter a secret key for the hash generation.
